@@ -464,6 +464,12 @@ body {
 .footer__contacts-img {
     margin-right: 10px;
 }
+@media (min-width: 1098px) {
+    .bike__list {
+            margin-top: -500px;
+            
+        }
+}
 
 @media (max-width: 1140px) {
     .form__bike-img {
